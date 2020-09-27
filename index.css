@@ -1,0 +1,27 @@
+#id { 
+    width: auto;
+    margin: 4rem
+}
+
+.p-tag {
+    color: #ff0000;
+    font-size: 2rem;
+}
+
+#styledImage {
+    border: #ffffff ridge 2rem;  
+}
+
+/* 
+1rem = 16px
+0.25rem = 4px
+
+#ffffff = white
+
+Ridge is one of many styles to pass in for the border A list of options you can pass for each css property
+border-style: none | hidden | dotted | dashed | solid | double | groove | ridge | inset | outset
+
+More here
+https://developer.mozilla.org/en-US/docs/Web/CSS/border
+
+*/
